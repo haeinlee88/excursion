@@ -1,0 +1,22 @@
+html {
+  background-color: black;
+}
+
+div {
+
+  text-align:center;
+  color:white;
+  font-family:verdana;
+
+}
+
+h1 {
+
+  font-size: 50px;
+}
+
+a {
+
+  font-size:16px;
+  color:Aquamarine;
+}
