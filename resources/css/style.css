@@ -1,22 +1,49 @@
 html {
   background-color: black;
+  font-family:Verdana;
 }
 
-div {
+.center {
 
   text-align:center;
   color:white;
-  font-family:verdana;
 
+
+}
+
+.right {
+
+  text-align:right;
+  color:gray;
 }
 
 h1 {
 
   font-size: 50px;
+
 }
 
 a {
 
   font-size:16px;
   color:Aquamarine;
+}
+
+.mainHeader {
+
+  font-weight: normal;
+
+}
+
+.subHeader {
+
+  font-weight: 300px;
+  font-size:40px;
+}
+
+h4 {
+
+  font-size:21px;
+  color:gray;
+  font-weight: normal;
 }
